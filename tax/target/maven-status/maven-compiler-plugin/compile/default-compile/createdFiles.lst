@@ -1,0 +1,7 @@
+com\amdocs\product\tax\config\TaxConfiguration.class
+com\amdocs\product\tax\model\TaxResponse.class
+com\amdocs\product\tax\model\Tax.class
+com\amdocs\product\tax\repository\TaxRepository.class
+com\amdocs\product\tax\TaxApplication.class
+com\amdocs\tax\service\TaxService.class
+com\amdocs\product\tax\controller\TaxController.class
